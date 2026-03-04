@@ -6,6 +6,7 @@ Users can:
 📂 Use ready-made professional templates
 📖 Follow a built-in guide for section detection
 The tool automatically structures sections like Hero, Features, About, Portfolio, Pricing, Testimonials, Contact, and Footer based on user input.
+
 HTML QUICK STYLER OUTPUT: 
 
 ![WhatsApp Image 2026-03-04 at 11 18 42 AM](https://github.com/user-attachments/assets/2d2a6928-c397-45ad-99ee-0457f30ea449)
