@@ -1,3 +1,5 @@
+HTML-QUICK-STYLER
+
 HTML Quick-Styler Advanced is a powerful AI-powered HTML page generator built with Gradio. It allows users to instantly create modern, responsive, and production-ready website layouts with automatic color styling.
 Users can:
 ✨ Generate full HTML pages in seconds
